@@ -1,11 +1,9 @@
-# React + Vite
+# Oh, hello!
+This is the repository where I keep code for my personal internet website. I know, how 90's of me! 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+There's not a lot here but if you wanted to know: I built this with Vite + React because I wanted to see how it would work with Github Pages. 🎉
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Updating something here? 
-Remember to run ```npm run deploy``` to update the gh-pages branch in order to publish. 
+## A note to your future self: 
+### Updating something here? 
+Remember to run ```npm run predeploy``` && ```npm run deploy``` to do that thing that deploys the gh-pages branch. 
+You're welcome.
