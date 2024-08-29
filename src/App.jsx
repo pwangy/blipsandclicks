@@ -7,7 +7,7 @@ export const App = () => {
 				</div>
 				<div className='update'>
 					<p>
-						I&apos;m a Frontend Developer and Designer based in
+						I&apos;m a Full Stack Developer and Designer based in
 						Berkeley, California.
 					</p>
 					<p>Bits and baubles are forthcoming.</p>
@@ -19,9 +19,9 @@ export const App = () => {
 						&nbsp;//&nbsp;
 						<a href='https://github.com/pwangy'>Github</a>
 						&nbsp;//&nbsp;
-						<a href='https://pwangy-portfolio.netlify.app/'>
+{/* 						<a href='https://pwangy-portfolio.netlify.app/'>
 							Portfolio
-						</a>
+						</a> */}
 					</p>
 				</div>
 			</section>
