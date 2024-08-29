@@ -19,7 +19,10 @@ export const App = () => {
 						&nbsp;//&nbsp;
 						<a href='https://github.com/pwangy'>Github</a>
 						&nbsp;//&nbsp;
-{/* 						<a href='https://pwangy-portfolio.netlify.app/'>
+						<a href='https://www.last.fm/user/hellodanger'>
+							Still Scrobbling
+						</a>
+						{/* <a href='https://pwangy-portfolio.netlify.app/'>
 							Portfolio
 						</a> */}
 					</p>
